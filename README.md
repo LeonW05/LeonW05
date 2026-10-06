@@ -22,6 +22,7 @@ Computer Science Engineering student at **Universidad Carlos III de Madrid (UC3M
 
 - [**pfsp-metaheuristics**](https://github.com/LeonW05/pfsp-metaheuristics) – Metaheuristics for the Permutation Flowshop Scheduling Problem (C++)
 - [**Graph Coloring with Discrete Harmony Search**](https://github.com/100522322/OM_final_project) – C++ solver for the Graph Coloring Problem (TODO: enlace al repo)
+- [**MachineLearningProject**](https://github.com/100522322/MachineLearningProject) – Machine learning pipeline on the Craigslist cars & trucks dataset: data cleaning, preprocessing, grid-search tuning, cross-validated regressors and classifiers, feature importance and statistical tests for XGBoost (Python)
 
 ## Languages
 
