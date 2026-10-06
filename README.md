@@ -21,7 +21,7 @@ Computer Science Engineering student at **Universidad Carlos III de Madrid (UC3M
 ## Featured projects
 
 - [**pfsp-metaheuristics**](https://github.com/LeonW05/pfsp-metaheuristics) – Metaheuristics for the Permutation Flowshop Scheduling Problem (C++)
-- **Graph Coloring with Discrete Harmony Search** – C++ solver for the Graph Coloring Problem (TODO: enlace al repo)
+- [**Graph Coloring with Discrete Harmony Search**](https://github.com/100522322/OM_final_project) – C++ solver for the Graph Coloring Problem (TODO: enlace al repo)
 
 ## Languages
 
@@ -29,4 +29,4 @@ Computer Science Engineering student at **Universidad Carlos III de Madrid (UC3M
 
 ## Contact
 
-📫 TODO: leonwyrobek05@gmail.com · 💼 TODO: https://www.linkedin.com/in/leon-wyrobek-80a3a82b6/?isSelfProfile=true
+📫 [**Gmail**](leonwyrobek05@gmail.com) · 💼 [**Linkedin**](https://www.linkedin.com/in/leon-wyrobek-80a3a82b6/?isSelfProfile=true)
