@@ -1,5 +1,3 @@
-# Hi, I'm Leon 👋
-
 Computer Science Engineering student at **Universidad Carlos III de Madrid (UC3M)**, based in Madrid. I enjoy building software end to end, from low-level code to machine learning, and I'm currently looking for an internship.
 
 ## What I work on
